@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sequence of Jupyter notebooks featuring the \"12 Steps to Navier-Stokes\" http://lorenabarba.com/  ",
+                "homepage": null,
                 "id": 16735928,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-19T16:46:54Z",
+                "open_issues": 33,
                 "owner": "barbagroup",
                 "repo": "CFDPython",
-                "stars": 4120
+                "stars": 4121,
+                "topics": [
+                  "cfd",
+                  "fluid-dynamics",
+                  "jupyter-notebook",
+                  "navier-stokes-equations",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Numerical Tours of Signal Processing",
+                "homepage": "http://www.numerical-tours.com",
                 "id": 13766928,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-04-10T05:58:11Z",
+                "open_issues": 32,
                 "owner": "gpeyre",
                 "repo": "numerical-tours",
-                "stars": 845
+                "stars": 845,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -44,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 299949509,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-02-29T15:55:25Z",
+                "open_issues": 0,
                 "owner": "jfavre",
                 "repo": "Visualization-training",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -67,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statistical Rethinking course winter 2022",
+                "homepage": null,
                 "id": 414976836,
                 "language": "R",
+                "license": null,
                 "last_commit": "2022-03-15T15:07:26Z",
+                "open_issues": 12,
                 "owner": "rmcelreath",
                 "repo": "stat_rethinking_2022",
-                "stars": 4107
+                "stars": 4107,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -83,12 +109,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)",
+                "homepage": null,
                 "id": 342909317,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-05-22T06:22:43Z",
+                "open_issues": 4,
                 "owner": "Ceyron",
                 "repo": "machine-learning-and-simulation",
-                "stars": 1199
+                "stars": 1199,
+                "topics": [
+                  "education",
+                  "machine-learning",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -99,12 +134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 69240756,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-01-26T07:35:19Z",
+                "open_issues": 2,
                 "owner": "jnmlujnmlu",
                 "repo": "OpenFOAMTeaching",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -122,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and Code supporting the eBook by Castro and Vanderwel (2021)",
+                "homepage": null,
                 "id": 373936909,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2022-02-07T15:50:41Z",
+                "open_issues": 0,
                 "owner": "cvanderwel",
                 "repo": "TurbulentFlows",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -149,12 +194,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The public CGAL repository, see the README below",
+            "homepage": "https://github.com/CGAL/cgal#readme",
             "id": 24677392,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:58:02Z",
+            "open_issues": 676,
             "owner": "CGAL",
             "repo": "cgal",
-            "stars": 6026
+            "stars": 6026,
+            "topics": [
+              "algorithms",
+              "arrange",
+              "boolean-operations",
+              "c-plus-plus",
+              "cgal",
+              "computational-geometry",
+              "cpp",
+              "geometry",
+              "geometry-processing",
+              "library",
+              "mesh-processing",
+              "meshes",
+              "point-cloud",
+              "polygon",
+              "template-library",
+              "triangulation",
+              "voronoi-diagram"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -165,12 +233,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source mesh processing system",
+            "homepage": "http://www.meshlab.net",
             "id": 73027304,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T20:38:52Z",
+            "open_issues": 194,
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5804
+            "stars": 5804,
+            "topics": [
+              "3d",
+              "3d-models",
+              "3d-printing",
+              "3d-reconstruction",
+              "3d-scanning",
+              "mesh",
+              "mesh-editing",
+              "mesh-generation",
+              "mesh-processing",
+              "mesh-simplification",
+              "point-cloud",
+              "triangle-mesh"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -181,12 +267,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":spider_web: input/output for many mesh formats",
+            "homepage": null,
             "id": 45875786,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-23T14:33:18Z",
+            "open_issues": 250,
             "owner": "nschloe",
             "repo": "meshio",
-            "stars": 2325
+            "stars": 2325,
+            "topics": [
+              "engineering",
+              "mathematics",
+              "mesh",
+              "meshing",
+              "pypi",
+              "python",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -197,12 +296,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Geometry Processing Library for Python",
+            "homepage": null,
             "id": 36988453,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-08-08T20:25:21Z",
+            "open_issues": 251,
             "owner": "PyMesh",
             "repo": "PyMesh",
-            "stars": 2043
+            "stars": 2043,
+            "topics": [
+              "3d",
+              "convex-hull",
+              "geometry",
+              "geometry-processing",
+              "graphics",
+              "mesh-boolean",
+              "mesh-cleanup",
+              "mesh-generation",
+              "outer-hull",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -213,12 +328,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":spider_web: Gmsh for Python",
+            "homepage": null,
             "id": 13310568,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-04T10:11:37Z",
+            "open_issues": 60,
             "owner": "nschloe",
             "repo": "pygmsh",
-            "stars": 967
+            "stars": 967,
+            "topics": [
+              "engineering",
+              "mathematics",
+              "mesh-generation",
+              "meshing",
+              "pypi",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -229,12 +356,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":spider_web: Mesh optimization, mesh smoothing.",
+            "homepage": null,
             "id": 131445806,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-18T14:19:39Z",
+            "open_issues": 3,
             "owner": "meshpro",
             "repo": "optimesh",
-            "stars": 635
+            "stars": 636,
+            "topics": [
+              "engineering",
+              "fem",
+              "mathematics",
+              "mesh",
+              "mesh-generation",
+              "meshing",
+              "physics",
+              "pypi",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -245,12 +387,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)",
+            "homepage": "http://mathema.tician.de/software/meshpy",
             "id": 2757253,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:51:24Z",
+            "open_issues": 18,
             "owner": "inducer",
             "repo": "meshpy",
-            "stars": 585
+            "stars": 585,
+            "topics": [
+              "gmsh",
+              "mesh-generation",
+              "python",
+              "scientific-computing",
+              "tetgen",
+              "triangle",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         }
@@ -269,12 +424,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows",
+                "homepage": null,
                 "id": 95487660,
                 "language": "Fortran",
+                "license": "MIT",
                 "last_commit": "2026-08-03T22:54:35Z",
+                "open_issues": 1,
                 "owner": "CaNS-World",
                 "repo": "CaNS",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "cfd",
+                  "computational-fluid-dynamics",
+                  "fluid-dynamics",
+                  "fluid-simulation",
+                  "fortran",
+                  "gpu",
+                  "gpu-computing",
+                  "high-performance-computing",
+                  "turbulence"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -292,12 +462,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is written in C++ with extensive Python interface.",
+                "homepage": "https://kratosmultiphysics.github.io/Kratos/",
                 "id": 81815495,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:21:41Z",
+                "open_issues": 733,
                 "owner": "KratosMultiphysics",
                 "repo": "Kratos",
-                "stars": 1351
+                "stars": 1351,
+                "topics": [
+                  "bsd-license",
+                  "c-plus-plus",
+                  "dem",
+                  "fem",
+                  "kratos",
+                  "kratos-multiphysics",
+                  "mpi",
+                  "multi-platform",
+                  "multiphysics",
+                  "numerical-methods",
+                  "openmp",
+                  "parallel-computing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -308,12 +497,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next generation FEniCS problem solving environment for solving finite element problems",
+                "homepage": "https://fenicsproject.org",
                 "id": 128214585,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T22:33:41Z",
+                "open_issues": 129,
                 "owner": "FEniCS",
                 "repo": "dolfinx",
-                "stars": 1187
+                "stars": 1187,
+                "topics": [
+                  "fenicsx",
+                  "finite-element-methods",
+                  "parallel-computing",
+                  "partial-differential-equations"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -324,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)",
+                "homepage": "https://firedrakeproject.org",
                 "id": 13384052,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T01:13:41Z",
+                "open_issues": 456,
                 "owner": "firedrakeproject",
                 "repo": "firedrake",
-                "stars": 669
+                "stars": 669,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -340,12 +544,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple finite element assemblers",
+                "homepage": "https://scikit-fem.readthedocs.io",
                 "id": 115345426,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-19T11:45:44Z",
+                "open_issues": 11,
                 "owner": "kinnala",
                 "repo": "scikit-fem",
-                "stars": 650
+                "stars": 650,
+                "topics": [
+                  "fem",
+                  "pde",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -356,12 +569,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluidity",
+                "homepage": "http://fluidity-project.org",
                 "id": 20023221,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T08:05:09Z",
+                "open_issues": 33,
                 "owner": "FluidityProject",
                 "repo": "fluidity",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "cfd",
+                  "computational-fluid-dynamics"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -372,12 +593,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The JuliaFEM software library is a framework that allows for the distributed processing of large Finite Element Models across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage.",
+                "homepage": "http://juliafem.github.io/JuliaFEM.jl/latest/",
                 "id": 35573493,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-05-11T00:07:29Z",
+                "open_issues": 9,
                 "owner": "JuliaFEM",
                 "repo": "JuliaFEM.jl",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "element",
+                  "fem",
+                  "finite",
+                  "julia",
+                  "julia-language",
+                  "method"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -395,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFOAM Foundation development repository",
+                "homepage": "https://openfoam.org",
                 "id": 27826728,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T09:55:35Z",
+                "open_issues": 7,
                 "owner": "OpenFOAM",
                 "repo": "OpenFOAM-dev",
-                "stars": 2214
+                "stars": 2214,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -411,12 +649,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SU2: An Open-Source Suite for Multiphysics Simulation and Design",
+                "homepage": "https://su2code.github.io",
                 "id": 11036316,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:25:28Z",
+                "open_issues": 103,
                 "owner": "su2code",
                 "repo": "SU2",
-                "stars": 1787
+                "stars": 1787,
+                "topics": [
+                  "c-plus-plus",
+                  "cfd",
+                  "flow",
+                  "fluid",
+                  "fluid-dynamics",
+                  "hpc",
+                  "opensource",
+                  "optimization",
+                  "physics",
+                  "python",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -427,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and simple fluid simulator in Julia",
+                "homepage": null,
                 "id": 273478432,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:21:47Z",
+                "open_issues": 27,
                 "owner": "WaterLily-jl",
                 "repo": "WaterLily.jl",
-                "stars": 831
+                "stars": 831,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -443,12 +703,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries.",
+                "homepage": null,
                 "id": 232549983,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-07-20T19:59:48Z",
+                "open_issues": 14,
                 "owner": "cselab",
                 "repo": "aphros",
-                "stars": 459
+                "stars": 459,
+                "topics": [
+                  "cfd",
+                  "chemical-engineering",
+                  "fluid",
+                  "high-performance-computing",
+                  "multiphase-flow",
+                  "paraview",
+                  "simulation",
+                  "surface-tension"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -459,12 +733,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
+                "homepage": "https://mflowcode.github.io/",
                 "id": 198475661,
                 "language": "Fortran",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:33:45Z",
+                "open_issues": 119,
                 "owner": "MFlowCode",
                 "repo": "MFC",
-                "stars": 412
+                "stars": 412,
+                "topics": [
+                  "amd-gpu",
+                  "cfd",
+                  "computational-fluid-dynamics",
+                  "cuda",
+                  "exascale",
+                  "fluid-dynamics",
+                  "fortran",
+                  "gpu",
+                  "gpu-computing",
+                  "hpc",
+                  "mpi",
+                  "multiphase",
+                  "nvidia-gpu",
+                  "openacc",
+                  "openmp",
+                  "parallel-computing",
+                  "physics-simulation",
+                  "rocm",
+                  "scientific-computing",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -475,12 +775,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unstructured Compressible Navier Stokes 3D code (UCNS3D) ",
+                "homepage": "https://ucns3d.com",
                 "id": 204001658,
                 "language": "Fortran",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-04T14:17:29Z",
+                "open_issues": 48,
                 "owner": "ucns3d-team",
                 "repo": "UCNS3D",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "cfd",
+                  "compressible-flows",
+                  "compressible-fluid-dynamics",
+                  "computational-fluid-dynamics",
+                  "simulation",
+                  "unstructured-meshes"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -491,12 +803,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code_saturne public mirror",
+                "homepage": "https://www.code-saturne.org",
                 "id": 127913487,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T14:47:51Z",
+                "open_issues": 29,
                 "owner": "code-saturne",
                 "repo": "code_saturne",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "c",
+                  "cfd",
+                  "finite-volume",
+                  "fortran",
+                  "hpc-applications",
+                  "mpi-applications",
+                  "navier-stokes",
+                  "pyqt",
+                  "turbulence"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -507,12 +834,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CFD for Everyone",
+                "homepage": "https://baramcfd.org/",
                 "id": 469984517,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-27T03:23:02Z",
+                "open_issues": 33,
                 "owner": "nextfoam",
                 "repo": "baram",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "cfd",
+                  "open-source",
+                  "openfoam",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -523,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1103823423,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T11:25:49Z",
+                "open_issues": 0,
                 "owner": "DelNov",
                 "repo": "T-Flows",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -546,12 +888,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible framework for solving PDEs with modern spectral methods.",
+                "homepage": "http://dedalus-project.org/",
                 "id": 264506861,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T20:22:38Z",
+                "open_issues": 65,
                 "owner": "DedalusProject",
                 "repo": "dedalus",
-                "stars": 703
+                "stars": 703,
+                "topics": [
+                  "fluid-dynamics",
+                  "pde-solver",
+                  "spectral-methods"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -562,12 +913,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "our classic",
+                "homepage": "https://nek5000.mcs.anl.gov/",
                 "id": 59512844,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T13:34:02Z",
+                "open_issues": 80,
                 "owner": "Nek5000",
                 "repo": "Nek5000",
-                "stars": 486
+                "stars": 486,
+                "topics": [
+                  "anl",
+                  "cfd",
+                  "flow",
+                  "fluid",
+                  "high-order",
+                  "hpc",
+                  "navier-stokes",
+                  "sem",
+                  "spectral"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -578,12 +944,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance computational platform in Python for the spectral Galerkin method",
+                "homepage": "http://shenfun.readthedocs.org",
                 "id": 79914066,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-07-20T17:33:05Z",
+                "open_issues": 31,
                 "owner": "spectralDNS",
                 "repo": "shenfun",
-                "stars": 232
+                "stars": 232,
+                "topics": [
+                  "chebyshev",
+                  "curvilinear-coordinates",
+                  "cylindrical-coordinates",
+                  "fenics",
+                  "fourier",
+                  "galerkin",
+                  "hermite",
+                  "hpc",
+                  "laguerre",
+                  "legendre",
+                  "mobius",
+                  "polar-coordinates",
+                  "python",
+                  "spectral",
+                  "spectral-methods",
+                  "spherical-coordinates",
+                  "turbulence",
+                  "ultraspherical"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -594,12 +984,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains",
+                "homepage": "https://bit.ly/FourierFlows",
                 "id": 95982414,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-06-29T21:36:41Z",
+                "open_issues": 23,
                 "owner": "FourierFlows",
                 "repo": "FourierFlows.jl",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "cfd",
+                  "fluid-dy",
+                  "fourier",
+                  "julia",
+                  "partial-differential-equations",
+                  "periodic-domains",
+                  "pseudospectral-methods",
+                  "spectral-methods"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -617,12 +1021,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy",
+                "homepage": "https://flow.byu.edu/FLOWUnsteady/",
                 "id": 211944072,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-05T01:07:29Z",
+                "open_issues": 43,
                 "owner": "byuflowlab",
                 "repo": "FLOWUnsteady",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "acoustics",
+                  "aeroacoustics",
+                  "aerodynamics",
+                  "aircraft",
+                  "cfd",
+                  "computational-fluid-dynamics",
+                  "rotorcraft",
+                  "vortex-methods",
+                  "vpm",
+                  "vtol",
+                  "wind-turbine"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -633,12 +1054,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ptera Software is a fast, easy-to-use, and open-source software package for analyzing flapping-wing flight.",
+                "homepage": "https://docs.pterasoftware.com",
                 "id": 249337717,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:43:23Z",
+                "open_issues": 42,
                 "owner": "camUrban",
                 "repo": "PteraSoftware",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "aerodynamics",
+                  "aeronautics",
+                  "aerospace",
+                  "aircraft-design",
+                  "bio-inspired-robotics",
+                  "cfd",
+                  "flapping-flight",
+                  "flapping-wing",
+                  "flight-dynamics",
+                  "micro-air-vehicle",
+                  "ornithopter",
+                  "panel-method",
+                  "potential-flow",
+                  "python",
+                  "simulation",
+                  "uav",
+                  "unsteady-flows",
+                  "uvlm",
+                  "vlm",
+                  "vortex-lattice-method"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -649,12 +1096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VM2D: Open-Source Code for 2D Flow Simulation by Using Meshless Lagrangian Vortex Methods",
+                "homepage": null,
                 "id": 109637222,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-22T10:00:54Z",
+                "open_issues": 4,
                 "owner": "vortexmethods",
                 "repo": "VM2D",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -665,12 +1117,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two-dimensional flow solver with GUI using vortex particle and boundary element methods",
+                "homepage": null,
                 "id": 160567365,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-15T15:57:54Z",
+                "open_issues": 19,
                 "owner": "Applied-Scientific-Research",
                 "repo": "Omega2D",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "boundary-element-method",
+                  "cfd",
+                  "imgui",
+                  "nbody-simulation",
+                  "potential-flow",
+                  "simd-parallelism",
+                  "simulation",
+                  "vortex-methods",
+                  "vortex-panel-method"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -681,12 +1148,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two-dimensional semi-Lagrangian vortex method for very low viscosity fluid simulation",
+                "homepage": null,
                 "id": 113942347,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-14T03:36:23Z",
+                "open_issues": 0,
                 "owner": "markstock",
                 "repo": "vic2d",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "cfd",
+                  "fluid-dynamics",
+                  "fluid-solver",
+                  "simulator",
+                  "vorticity"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -697,12 +1175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D Discrete Vortex Method Code written in C++",
+                "homepage": null,
                 "id": 96229133,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-01T22:38:38Z",
+                "open_issues": 1,
                 "owner": "gdeskos",
                 "repo": "DVMpp",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -720,12 +1203,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An adaptive and distributed-memory parallel implementation of the immersed boundary (IB) method",
+                "homepage": "http://ibamr.github.io/",
                 "id": 18901909,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T03:26:14Z",
+                "open_issues": 175,
                 "owner": "IBAMR",
                 "repo": "IBAMR",
-                "stars": 444
+                "stars": 444,
+                "topics": [
+                  "adaptive-mesh-refinement",
+                  "c-plus-plus",
+                  "finite-difference",
+                  "finite-elements",
+                  "fortran",
+                  "immersed-boundary-method",
+                  "level-set-method",
+                  "mpi",
+                  "multiphase-flow",
+                  "volume-penalization-method"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -736,12 +1235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immersed boundary method empowered by signed distance field, and OpenFOAM.",
+                "homepage": null,
                 "id": 192610712,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-23T02:21:14Z",
+                "open_issues": 7,
                 "owner": "ChenguangZhang",
                 "repo": "sdfibm",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -752,12 +1256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immersed Boundary Projection Method",
+                "homepage": null,
                 "id": 6406059,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-03-21T22:12:32Z",
+                "open_issues": 4,
                 "owner": "cwrowley",
                 "repo": "ibpm",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -768,12 +1277,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PetIBM - toolbox and applications of the immersed-boundary method on distributed-memory architectures",
+                "homepage": "https://barbagroup.github.io/PetIBM",
                 "id": 20114054,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-08-11T21:50:46Z",
+                "open_issues": 1,
                 "owner": "barbagroup",
                 "repo": "PetIBM",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "computational-fluid-dynamics",
+                  "gpu-computing",
+                  "immersed-boundary-method",
+                  "nvidia-amgx",
+                  "petsc"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -784,12 +1304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cuIBM: a GPU-based immersed boundary method code.",
+                "homepage": "http://barbagroup.github.io/cuIBM",
                 "id": 19514731,
                 "language": "Cuda",
+                "license": "MIT",
                 "last_commit": "2023-03-26T04:54:43Z",
+                "open_issues": 8,
                 "owner": "barbagroup",
                 "repo": "cuIBM",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -807,12 +1332,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+                "homepage": null,
                 "id": 65852069,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T19:02:10Z",
+                "open_issues": 226,
                 "owner": "wrf-model",
                 "repo": "WRF",
-                "stars": 1745
+                "stars": 1745,
+                "topics": [
+                  "climate",
+                  "forecast",
+                  "fortran",
+                  "model",
+                  "nwp",
+                  "simulation",
+                  "weather",
+                  "wrf"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -830,12 +1369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.",
+                "homepage": "https://energyplus.net",
                 "id": 14620185,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T01:40:20Z",
+                "open_issues": 868,
                 "owner": "NatLabRockies",
                 "repo": "EnergyPlus",
-                "stars": 1559
+                "stars": 1559,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -846,12 +1390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":butterfly: A light python API for creating and running OpenFoam cases for CFD simulation.",
+                "homepage": "http://ladybug-tools.github.io/butterfly.html",
                 "id": 39441286,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-27T15:43:59Z",
+                "open_issues": 100,
                 "owner": "ladybug-tools",
                 "repo": "butterfly",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -862,12 +1411,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "uDALES: large-eddy-simulation software for urban flow, dispersion and microclimate modelling",
+                "homepage": "https://udales.github.io/u-dales",
                 "id": 194829003,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T16:50:11Z",
+                "open_issues": 45,
                 "owner": "uDALES",
                 "repo": "u-dales",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "cfd",
+                  "computational-fluid-dynamics",
+                  "large-eddy-simulation",
+                  "urban-climate"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -885,12 +1444,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+                "homepage": "https://clima.github.io/OceananigansDocumentation/stable",
                 "id": 152878952,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:47:05Z",
+                "open_issues": 348,
                 "owner": "CliMA",
                 "repo": "Oceananigans.jl",
-                "stars": 1412
+                "stars": 1412,
+                "topics": [
+                  "climate",
+                  "climate-change",
+                  "data-assimilation",
+                  "fluid-dynamics",
+                  "gpu",
+                  "julia",
+                  "machine-learning",
+                  "ocean"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -901,12 +1474,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The versatile ocean simulator, in pure Python, powered by JAX.",
+                "homepage": "https://veros.readthedocs.io",
                 "id": 87419383,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T05:17:16Z",
+                "open_issues": 27,
                 "owner": "team-ocean",
                 "repo": "veros",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "climate",
+                  "distributed",
+                  "geophysics",
+                  "gpu",
+                  "jax",
+                  "multi-core",
+                  "oceanography",
+                  "parallel",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -917,12 +1505,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main code for Parcels - a highly customisable Lagrangian simulation framework",
+                "homepage": "https://parcels-code.org",
                 "id": 43358723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:46:18Z",
+                "open_issues": 128,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "lagrangian-ocean-modelling",
+                  "ocean-circulation-models",
+                  "particles"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -933,12 +1530,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python model solving the shallow water equations (linear momentum, nonlinear continuity)",
+                "homepage": null,
                 "id": 101396497,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-27T11:29:09Z",
+                "open_issues": 0,
                 "owner": "jostbr",
                 "repo": "shallow-water",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "computational-fluid-dynamics",
+                  "fluid-dynamics",
+                  "fluid-simulation",
+                  "numpy",
+                  "partial-differential-equations",
+                  "python",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -956,12 +1566,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MF-LBM: A Portable, Scalable and High-performance Lattice Boltzmann Code for DNS of Flow in Porous Media",
+                "homepage": null,
                 "id": 362946198,
                 "language": "Fortran",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-07-25T09:14:41Z",
+                "open_issues": 0,
                 "owner": "lanl",
                 "repo": "MF-LBM",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "cfd",
+                  "gpu",
+                  "hpc",
+                  "lbm"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -972,12 +1592,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2D Lattice Boltzmann program",
+                "homepage": "https://compphys.go.ro/lattice-boltzmann/",
                 "id": 96230791,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-30T11:04:12Z",
+                "open_issues": 3,
                 "owner": "aromanro",
                 "repo": "LatticeBoltzmann",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "computational-fluid-dynamics",
+                  "computational-fluid-simulation",
+                  "computational-physics",
+                  "fluid-dynamics",
+                  "fluid-simulation",
+                  "lattice-boltzmann",
+                  "mfc",
+                  "physics",
+                  "physics-simulation"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -995,12 +1630,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aircraft design optimization made fast through computational graph transformations (e.g., automatic differentiation). Composable analysis tools for aerodynamics, propulsion, structures, trajectory design, and much more.",
+                "homepage": "https://peterdsharpe.github.io/AeroSandbox/",
                 "id": 186871969,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-05T14:54:17Z",
+                "open_issues": 18,
                 "owner": "peterdsharpe",
                 "repo": "AeroSandbox",
-                "stars": 1319
+                "stars": 1319,
+                "topics": [
+                  "3d-panel",
+                  "aerodynamic-analysis",
+                  "aerodynamics",
+                  "aerospace",
+                  "aerospace-engineering",
+                  "aircraft",
+                  "aircraft-design",
+                  "airplane",
+                  "analysis",
+                  "automatic-differentiation",
+                  "cfd",
+                  "mdao",
+                  "mdo",
+                  "optimization",
+                  "python",
+                  "simulation",
+                  "vlm",
+                  "xfoil"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1011,12 +1670,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DAFoam: Discrete Adjoint with OpenFOAM for High-fidelity Multidisciplinary Design Optimization",
+                "homepage": "https://dafoam.github.io",
                 "id": 186084260,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T02:13:27Z",
+                "open_issues": 12,
                 "owner": "mdolab",
                 "repo": "dafoam",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "adjoint",
+                  "aerodynamics",
+                  "cfd",
+                  "design-optimization",
+                  "heat-transfer",
+                  "mdo",
+                  "open-source",
+                  "openfoam"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1027,12 +1700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stripped down version of XFOIL as compiled python module",
+                "homepage": null,
                 "id": 163841893,
                 "language": "Fortran",
+                "license": "GPL-3.0",
                 "last_commit": "2021-06-16T20:31:54Z",
+                "open_issues": 16,
                 "owner": "DARcorporation",
                 "repo": "xfoil-python",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1050,12 +1728,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A coupling library and ecosystem for partitioned multi-physics and multi-scale simulations, including surface and volume coupling.",
+                "homepage": "https://precice.org/",
                 "id": 36075444,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-24T08:09:23Z",
+                "open_issues": 244,
                 "owner": "precice",
                 "repo": "precice",
-                "stars": 964
+                "stars": 964,
+                "topics": [
+                  "calculix",
+                  "co-simulation",
+                  "code-aster",
+                  "computer-aided-engineering",
+                  "conjugate-heat-transfer",
+                  "coupling",
+                  "cpp",
+                  "dealii",
+                  "fenics",
+                  "fluent",
+                  "fluid-structure-interaction",
+                  "high-performance-computing",
+                  "multi-physics",
+                  "multiphysics",
+                  "openfoam",
+                  "precice",
+                  "research-and-development",
+                  "simulation",
+                  "su2"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1073,12 +1776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chemical kinetics, thermodynamics, and transport tool suite",
+                "homepage": "https://cantera.org",
                 "id": 32940327,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:08:01Z",
+                "open_issues": 59,
                 "owner": "Cantera",
                 "repo": "cantera",
-                "stars": 847
+                "stars": 847,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1096,12 +1804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supersonic TuRbulEnt Accelerated navier stokes Solver",
+                "homepage": null,
                 "id": 239472503,
                 "language": "Fortran",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-01T14:29:55Z",
+                "open_issues": 2,
                 "owner": "matteobernardini",
                 "repo": "STREAmS",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1112,12 +1825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallel (C++/MPI/OpenMP/CUDA) research-educational CFD code for simulation 2D (flat/axisymmetrical) transient viscous compressible multicomponent sub/trans/supersonic reacting gas flow with RANS/URANS turbulence models.",
+                "homepage": null,
                 "id": 32260536,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-07-27T13:36:27Z",
+                "open_issues": 0,
                 "owner": "sergeas67",
                 "repo": "OpenHyperFLOW2D",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1135,12 +1853,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Productive, portable, and performant GPU programming in Python.",
+                "homepage": "https://taichi-lang.org",
                 "id": 74660642,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T19:33:09Z",
+                "open_issues": 925,
                 "owner": "taichi-dev",
                 "repo": "taichi",
-                "stars": 28345
+                "stars": 28346,
+                "topics": [
+                  "computer-graphics",
+                  "differentiable-programming",
+                  "gpu",
+                  "gpu-programming",
+                  "sparse-computation",
+                  "taichi"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1151,12 +1881,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A differentiable PDE solving framework for machine learning",
+                "homepage": null,
                 "id": 225903949,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-16T20:11:37Z",
+                "open_issues": 30,
                 "owner": "tum-pbs",
                 "repo": "PhiFlow",
-                "stars": 1928
+                "stars": 1929,
+                "topics": [
+                  "deep-learning",
+                  "differentiable-simulations",
+                  "fluid-simulations",
+                  "neural-networks",
+                  "pde-solver"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1167,12 +1908,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computational Fluid Dynamics in JAX",
+                "homepage": null,
                 "id": 350436461,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T08:40:20Z",
+                "open_issues": 31,
                 "owner": "google",
                 "repo": "jax-cfd",
-                "stars": 961
+                "stars": 962,
+                "topics": [
+                  "cfd",
+                  "jax"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1190,12 +1939,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for scientific machine learning and physics-informed learning",
+                "homepage": "https://deepxde.readthedocs.io",
                 "id": 169674091,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-18T01:17:55Z",
+                "open_issues": 316,
                 "owner": "lululxvi",
                 "repo": "deepxde",
-                "stars": 4391
+                "stars": 4391,
+                "topics": [
+                  "deep-learning",
+                  "deeponet",
+                  "jax",
+                  "multi-fidelity-data",
+                  "neural-network",
+                  "operator",
+                  "paddle",
+                  "pde",
+                  "physics-informed-learning",
+                  "pinn",
+                  "pytorch",
+                  "scientific-machine-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1206,12 +1974,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fast and Easy Infinite Neural Networks in Python",
+                "homepage": "https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html",
                 "id": 180192894,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-01T17:17:03Z",
+                "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382
+                "stars": 2382,
+                "topics": [
+                  "bayesian-inference",
+                  "bayesian-networks",
+                  "deep-networks",
+                  "gaussian-processes",
+                  "gradient-descent",
+                  "gradient-flow",
+                  "infinite-networks",
+                  "jax",
+                  "kernel",
+                  "kernel-computation",
+                  "neural-networks",
+                  "neural-tangents",
+                  "training-dynamics"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1222,12 +2009,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation",
+                "homepage": "https://docs.sciml.ai/NeuralPDE/stable/",
                 "id": 84996091,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T20:26:08Z",
+                "open_issues": 144,
                 "owner": "SciML",
                 "repo": "NeuralPDE.jl",
-                "stars": 1220
+                "stars": 1220,
+                "topics": [
+                  "differential-equations",
+                  "differentialequations",
+                  "machine-learning",
+                  "neural-differential-equations",
+                  "neural-network",
+                  "neural-networks",
+                  "ode",
+                  "ordinary-differential-equations",
+                  "partial-differential-equations",
+                  "pde",
+                  "pinn",
+                  "scientific-ai",
+                  "scientific-machine-learning",
+                  "scientific-ml",
+                  "sciml"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1238,12 +2046,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code repository for \"Lagrangian Fluid Simulation with Continuous Convolutions\", ICLR 2020.",
+                "homepage": null,
                 "id": 258984301,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-13T09:08:14Z",
+                "open_issues": 6,
                 "owner": "isl-org",
                 "repo": "DeepLagrangianFluids",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "cnn",
+                  "convnet",
+                  "convolutional-neural-networks",
+                  "deeplearning",
+                  "fluids",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1254,12 +2074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MeshfreeFlowNet: Physical Constrained Space Time Super-Resolution ",
+                "homepage": null,
                 "id": 226422310,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-28T00:50:20Z",
+                "open_issues": 1,
                 "owner": "maxjiang93",
                 "repo": "space_time_pde",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1277,12 +2102,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play with fluids in your browser (works even on mobile)",
+                "homepage": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
                 "id": 101109137,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-12T13:29:23Z",
+                "open_issues": 75,
                 "owner": "PavelDoGreat",
                 "repo": "WebGL-Fluid-Simulation",
-                "stars": 16595
+                "stars": 16595,
+                "topics": [
+                  "fluid",
+                  "gpu",
+                  "navier-stokes",
+                  "simulation",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1293,12 +2129,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluid simulation engine for computer graphics applications",
+                "homepage": "https://fluidenginedevelopment.org/",
                 "id": 58299041,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-12-24T21:45:32Z",
+                "open_issues": 60,
                 "owner": "doyubkim",
                 "repo": "fluid-engine-dev",
-                "stars": 2099
+                "stars": 2099,
+                "topics": [
+                  "animation",
+                  "c-plus-plus",
+                  "computational-fluid-dynamics",
+                  "computational-physics",
+                  "computer-graphics",
+                  "fluid-simulation-engine",
+                  "physics-engine"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1316,12 +2165,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly efficient implementation of Gaussian Processes in PyTorch",
+                "homepage": null,
                 "id": 93868719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-10T22:03:14Z",
+                "open_issues": 412,
                 "owner": "cornellius-gp",
                 "repo": "gpytorch",
-                "stars": 3906
+                "stars": 3906,
+                "topics": [
+                  "gaussian-processes",
+                  "gpu-acceleration",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1332,12 +2190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyFR",
+                "homepage": null,
                 "id": 7652671,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:00:08Z",
+                "open_issues": 13,
                 "owner": "PyFR",
                 "repo": "PyFR",
-                "stars": 569
+                "stars": 569,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1348,12 +2211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles",
+                "homepage": "https://pencil-code.org/download.php",
                 "id": 34197379,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2026-08-28T18:23:47Z",
+                "open_issues": 0,
                 "owner": "pencil-code",
                 "repo": "pencil-code",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1364,12 +2232,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nalu: a generalized unstructured massively parallel low Mach flow code designed to support a variety of open applications of interest built on the Sierra Toolkit and Trilinos solver Tpetra solver stack. The open source BSD, clause 3 license model has been chosen for the code base. See LICENSE for more information. ",
+                "homepage": "https://github.com/NaluCFD/Nalu",
                 "id": 69712764,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-30T15:49:48Z",
+                "open_issues": 11,
                 "owner": "NaluCFD",
                 "repo": "Nalu",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "cfd",
+                  "les",
+                  "low-mach",
+                  "snl-applications",
+                  "turbulence"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1380,12 +2259,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Large-Eddy Simulation framework from the Turbulence Research Group at Johns Hopkins University",
+                "homepage": "https://lesgo.me.jhu.edu",
                 "id": 33743755,
                 "language": "Fortran",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-29T19:15:16Z",
+                "open_issues": 7,
                 "owner": "lesgo-jhu",
                 "repo": "lesgo",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "cfd",
+                  "fortran",
+                  "les",
+                  "linux",
+                  "macos"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1409,12 +2299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenPIV is an open source Particle Image Velocimetry analysis software written in Python and Cython",
+                "homepage": "http://www.openpiv.net",
                 "id": 1661589,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T22:20:20Z",
+                "open_issues": 17,
                 "owner": "OpenPIV",
                 "repo": "openpiv-python",
-                "stars": 303
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1425,12 +2320,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MyPTV is an open source library designed for 3D particle Tracking (3D-PTV) measurements",
+                "homepage": null,
                 "id": 472547055,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:38:05Z",
+                "open_issues": 11,
                 "owner": "ronshnapp",
                 "repo": "MyPTV",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "3d-ptv",
+                  "experiments",
+                  "fluid-mechanics",
+                  "measurements",
+                  "particle-tracking",
+                  "photogrammetry",
+                  "python",
+                  "turbulence"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1441,12 +2350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is our central repository, holding only the community approved code and documentation",
+                "homepage": "www.openptv.net",
                 "id": 6985516,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-03-01T22:50:34Z",
+                "open_issues": 17,
                 "owner": "OpenPTV",
                 "repo": "openptv",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1457,12 +2371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python GUI for the OpenPTV library, `liboptv`",
+                "homepage": "http://www.openptv.net",
                 "id": 236795450,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-04-01T22:06:27Z",
+                "open_issues": 1,
                 "owner": "OpenPTV",
                 "repo": "pyptv",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1480,12 +2399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised learning of Particle Image Velocimetry. (ISC 2020)",
+                "homepage": null,
                 "id": 245885118,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-05T19:46:52Z",
+                "open_issues": 4,
                 "owner": "erizmr",
                 "repo": "UnLiteFlowNet-PIV",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1496,12 +2420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Particle image velocimetry via a deep neural network (LiteFlowNet)",
+                "homepage": null,
                 "id": 183450894,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-07-23T09:08:56Z",
+                "open_issues": 0,
                 "owner": "shengzesnail",
                 "repo": "PIV-LiteFlowNet-en",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1512,12 +2441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perform PIV image pair match using deep conv neural network",
+                "homepage": null,
                 "id": 96741423,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-05-21T15:34:56Z",
+                "open_issues": 0,
                 "owner": "yongleex",
                 "repo": "PIV-DCNN",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1539,12 +2473,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fundamental package for scientific computing with Python.",
+            "homepage": "https://numpy.org",
             "id": 908607,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:23:43Z",
+            "open_issues": 2341,
             "owner": "numpy",
             "repo": "numpy",
-            "stars": 32621
+            "stars": 32622,
+            "topics": [
+              "numpy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1555,12 +2497,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for the sparse identification of nonlinear dynamical systems from data",
+            "homepage": "https://pysindy.readthedocs.io/en/latest/",
             "id": 186055899,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T21:36:54Z",
+            "open_issues": 83,
             "owner": "dynamicslab",
             "repo": "pysindy",
-            "stars": 1893
+            "stars": 1893,
+            "topics": [
+              "dynamical-systems",
+              "machine-learning",
+              "model-discovery",
+              "nonlinear-dynamics",
+              "sparse-regression",
+              "system-identification"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1571,12 +2525,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UQpy (Uncertainty Quantification with python) is a general purpose Python toolbox for modeling uncertainty in physical and mathematical systems.",
+            "homepage": null,
             "id": 112795497,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:37:10Z",
+            "open_issues": 20,
             "owner": "SURGroup",
             "repo": "UQpy",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "latin-hypercube",
+              "latin-hypercube-sampling",
+              "monte-carlo",
+              "monte-carlo-simulation",
+              "probabilistic",
+              "probability",
+              "stochastic",
+              "stochastic-process",
+              "uncertainty-propagation",
+              "uncertainty-quantification",
+              "uncertainty-sampling"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1587,12 +2558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mathLab mirror of Python Dynamic Mode Decomposition",
+            "homepage": "https://pydmd.github.io/PyDMD/",
             "id": 629922737,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-06T16:41:03Z",
+            "open_issues": 0,
             "owner": "mathLab",
             "repo": "PyDMD",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1603,12 +2579,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package for spectral proper orthogonal decomposition (SPOD). ",
+            "homepage": "https://mathexlab.github.io/PySPOD/",
             "id": 307635700,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-20T11:28:07Z",
+            "open_issues": 13,
             "owner": "MathEXLab",
             "repo": "PySPOD",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "coherent-structures",
+              "data-mining",
+              "dynamical-systems",
+              "spod"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1619,12 +2605,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation comparison of old and new method of determining eigenvectors from eigenvalues.",
+            "homepage": "https://www.researchgate.net/publication/337322294_Eigenvectors_from_Eigenvalues_CPU_and_GPU_Implementation",
             "id": 221868248,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-11-03T04:02:34Z",
+            "open_issues": 3,
             "owner": "ritchieng",
             "repo": "eigenvectors-from-eigenvalues",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "colab",
+              "determining-eigenvectors",
+              "eigenvalues",
+              "eigenvectors",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1635,12 +2632,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modred main repository",
+            "homepage": null,
             "id": 23675311,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-05-04T16:01:50Z",
+            "open_issues": 17,
             "owner": "belson17",
             "repo": "modred",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "dynamic-mode-decomposition",
+              "dynamical-systems",
+              "koopman",
+              "model-reduction",
+              "proper-orthogonal-decomposition"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1651,12 +2659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statistics of Turbulence Python Package",
+            "homepage": "http://turbustat.readthedocs.io/",
             "id": 14963199,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-06T20:34:49Z",
+            "open_issues": 21,
             "owner": "Astroua",
             "repo": "TurbuStat",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -1667,12 +2680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LCS Tool is a computational engine for analyzing fluid flows by extracting their most influential material surfaces, Lagrangian Coherent Structures. ",
+            "homepage": null,
             "id": 37142047,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2015-06-10T08:33:29Z",
+            "open_issues": 1,
             "owner": "haller-group",
             "repo": "LCStool",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         }
@@ -1691,12 +2709,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animation engine for explanatory math videos",
+                "homepage": null,
                 "id": 32689863,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T21:03:49Z",
+                "open_issues": 490,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92154
+                "stars": 92154,
+                "topics": [
+                  "3b1b-videos",
+                  "animation",
+                  "explanatory-math-videos",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1707,12 +2735,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "matplotlib: plotting with Python",
+                "homepage": "https://matplotlib.org/stable/",
                 "id": 1385122,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-28T19:16:57Z",
+                "open_issues": 1467,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23119
+                "stars": 23120,
+                "topics": [
+                  "data-science",
+                  "data-visualization",
+                  "gtk",
+                  "matplotlib",
+                  "plotting",
+                  "python",
+                  "qt",
+                  "tk",
+                  "wx"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1723,12 +2766,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statistical data visualization in Python",
+                "homepage": "https://seaborn.pydata.org",
                 "id": 4704710,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-06T02:11:55Z",
+                "open_issues": 228,
                 "owner": "mwaskom",
                 "repo": "seaborn",
-                "stars": 14008
+                "stars": 14008,
+                "topics": [
+                  "data-science",
+                  "data-visualization",
+                  "matplotlib",
+                  "pandas",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1739,12 +2793,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matplotlib styles for scientific plotting",
+                "homepage": null,
                 "id": 144605189,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-23T07:51:51Z",
+                "open_issues": 19,
                 "owner": "garrettj403",
                 "repo": "SciencePlots",
-                "stars": 9154
+                "stars": 9155,
+                "topics": [
+                  "cjk-fonts",
+                  "ieee-paper",
+                  "latex",
+                  "matplotlib-figures",
+                  "matplotlib-style-sheets",
+                  "matplotlib-styles",
+                  "python",
+                  "scientific-papers",
+                  "thesis-template"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1755,12 +2824,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image processing in Python",
+                "homepage": "https://scikit-image.org",
                 "id": 2014929,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T21:40:54Z",
+                "open_issues": 946,
                 "owner": "scikit-image",
                 "repo": "scikit-image",
-                "stars": 6578
+                "stars": 6579,
+                "topics": [
+                  "computer-vision",
+                  "image-processing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1771,12 +2849,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics",
+                "homepage": "https://proplot.readthedocs.io",
                 "id": 113293661,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-27T20:49:12Z",
+                "open_issues": 95,
                 "owner": "proplot-dev",
                 "repo": "proplot",
-                "stars": 1147
+                "stars": 1147,
+                "topics": [
+                  "data-visualization",
+                  "matplotlib",
+                  "plotting",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1794,12 +2882,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official mirror of Blender",
+                "homepage": "https://developer.blender.org/docs/handbook/contributing/using_git/#github-mirror",
                 "id": 213916896,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:14:50Z",
+                "open_issues": 0,
                 "owner": "blender",
                 "repo": "blender",
-                "stars": 19889
+                "stars": 19890,
+                "topics": [
+                  "3d",
+                  "animation",
+                  "b3d",
+                  "computer-graphics",
+                  "modeling",
+                  "rendering"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1810,12 +2910,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D visualization and mesh analysis for science and engineering",
+                "homepage": "https://docs.pyvista.org",
                 "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-29T03:14:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:32:35Z",
+                "open_issues": 593,
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3787
+                "stars": 3788,
+                "topics": [
+                  "3d",
+                  "finite-element-analysis",
+                  "finite-elements",
+                  "hacktoberfest",
+                  "mesh",
+                  "mesh-processing",
+                  "meshviewer",
+                  "plotting",
+                  "python",
+                  "scientific-visualization",
+                  "visualization",
+                  "vtk"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1826,12 +2944,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK. ",
+                "homepage": null,
                 "id": 44377817,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:18:30Z",
+                "open_issues": 2,
                 "owner": "K3D-tools",
                 "repo": "K3D-jupyter",
-                "stars": 1030
+                "stars": 1030,
+                "topics": [
+                  "3d",
+                  "jupyter",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1842,12 +2969,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elegant Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry.",
+                "homepage": "https://itkwidgets.readthedocs.io/",
                 "id": 121581663,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-10T21:02:03Z",
+                "open_issues": 128,
                 "owner": "InsightSoftwareConsortium",
                 "repo": "itkwidgets",
-                "stars": 624
+                "stars": 624,
+                "topics": [
+                  "image-analysis",
+                  "imaging",
+                  "insight-toolkit",
+                  "itk",
+                  "jupyter",
+                  "jupyter-widget",
+                  "jupyterlab-extension",
+                  "kitware",
+                  "medical-visualization",
+                  "meshes",
+                  "open-science",
+                  "open-source",
+                  "point-cloud",
+                  "python",
+                  "reproducible-research",
+                  "scientific-computing",
+                  "scientific-visualization"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1858,12 +3008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3-D Scientific Visualization in the Jupyter Notebook",
+                "homepage": null,
                 "id": 222452828,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-07-20T09:05:56Z",
+                "open_issues": 43,
                 "owner": "jupyter-widgets-contrib",
                 "repo": "ipygany",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1874,12 +3029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GR framework: a graphics library for visualisation applications",
+                "homepage": null,
                 "id": 17747322,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T16:11:59Z",
+                "open_issues": 34,
                 "owner": "sciapp",
                 "repo": "gr",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1890,12 +3050,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iPython widget for server-side ParaView rendering in Jupyter.",
+                "homepage": null,
                 "id": 211404343,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-16T19:01:02Z",
+                "open_issues": 12,
                 "owner": "NVIDIA",
                 "repo": "ipyparaview",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1919,12 +3084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PIV dataset",
+                "homepage": null,
                 "id": 182611588,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-09-09T01:37:06Z",
+                "open_issues": 1,
                 "owner": "shengzesnail",
                 "repo": "PIV_dataset",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1942,12 +3112,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python :rocket:",
+                "homepage": null,
                 "id": 212333820,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-10-08T12:43:53Z",
+                "open_issues": 6,
                 "owner": "dionhaefner",
                 "repo": "pyhpc-benchmarks",
-                "stars": 336
+                "stars": 336,
+                "topics": [
+                  "benchmarks",
+                  "cupy",
+                  "gpu",
+                  "high-performance-computing",
+                  "jax",
+                  "parallel-computing",
+                  "python",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             },
@@ -1958,12 +3143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test cases for SU2",
+                "homepage": null,
                 "id": 20705730,
                 "language": "GLSL",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-21T03:50:20Z",
+                "open_issues": 6,
                 "owner": "su2code",
                 "repo": "TestCases",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:39.446Z"
             }
@@ -1985,12 +3175,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦉 Data Versioning and ML Experiments",
+            "homepage": "https://dvc.org",
             "id": 83878269,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:51:06Z",
+            "open_issues": 201,
             "owner": "treeverse",
             "repo": "dvc",
-            "stars": 15850
+            "stars": 15850,
+            "topics": [
+              "ai",
+              "data-science",
+              "data-version-control",
+              "developer-tools",
+              "machine-learning",
+              "reproducibility",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -2001,12 +3204,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Sphinx documentation generator",
+            "homepage": "https://www.sphinx-doc.org/",
             "id": 28710753,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T22:51:57Z",
+            "open_issues": 1419,
             "owner": "sphinx-doc",
             "repo": "sphinx",
-            "stars": 7994
+            "stars": 7994,
+            "topics": [
+              "docs",
+              "documentation",
+              "documentation-tool",
+              "markdown",
+              "python",
+              "restructuredtext",
+              "sphinx"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         }
@@ -2023,12 +3239,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78694
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -2039,12 +3265,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
+            "homepage": null,
             "id": 132509274,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-20T10:32:58Z",
+            "open_issues": 17,
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
-            "stars": 1584
+            "stars": 1584,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "engineering",
+              "mathematics",
+              "numerical-analysis",
+              "physics",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -2055,12 +3294,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome CAE frameworks, libraries and software.",
+            "homepage": null,
             "id": 66208112,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-15T16:01:50Z",
+            "open_issues": 2,
             "owner": "qd-cae",
             "repo": "awesome-CAE",
-            "stars": 495
+            "stars": 495,
+            "topics": [
+              "abaqus",
+              "cae",
+              "cfd",
+              "collection",
+              "fem",
+              "libraries",
+              "ls-dyna",
+              "preprocessing",
+              "scripting",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         },
@@ -2071,12 +3326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of repositories related to PIV (particle image velocimetry) to learn from",
+            "homepage": null,
             "id": 300457990,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-25T06:58:44Z",
+            "open_issues": 2,
             "owner": "alexlib",
             "repo": "awesome_piv",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:39.446Z"
         }
@@ -2085,15 +3345,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:19:04.234Z",
+    "last_updated": "2026-08-29T04:45:28.425Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of repositories related to fluid dynamics.",
+      "homepage": "https://lento234.ch/awesome-fluid-dynamics/",
       "id": 339833302,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-19T05:23:51Z",
+      "open_issues": 5,
       "owner": "lento234",
       "repo": "awesome-fluid-dynamics",
-      "stars": 367
+      "stars": 367,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cfd",
+        "fluid-dynamics",
+        "visualization"
+      ]
     },
     "original_repository_sha": "15664eda3a39463fd416f0297ebab8af022fc514",
     "enhanced_repository": "enhansome/enhansome-fluid-dynamics",
