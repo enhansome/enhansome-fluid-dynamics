@@ -74,8 +74,8 @@ A curated list of repositories related to fluid dynamics.
 
 ## Meshing
 
-* [CGAL/cgal](https://github.com/CGAL/cgal) ⭐ 6,126 | 🐛 703 | 🌐 C++ | 📅 2026-11-14 - The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry. ![C++](logo/cpp.svg)
-* [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,916 | 🐛 197 | 🌐 C++ | 📅 2026-11-02 - The open source mesh processing system. ![C++](logo/cpp.svg)
+* [CGAL/cgal](https://github.com/CGAL/cgal) ⭐ 6,126 | 🐛 705 | 🌐 C++ | 📅 2026-11-14 - The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry. ![C++](logo/cpp.svg)
+* [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,917 | 🐛 197 | 🌐 C++ | 📅 2026-11-02 - The open source mesh processing system. ![C++](logo/cpp.svg)
 * [nschloe/meshio](https://github.com/nschloe/meshio) ⭐ 2,346 | 🐛 260 | 🌐 Python | 📅 2024-07-23 - I/O for exhaustive number of mesh file types. ![Python](logo/Python.svg)
 * [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) ⭐ 2,053 | 🐛 251 | 🌐 C++ | 📅 2024-08-08 - Geometry Processing Library for Python. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
 * [nschloe/pygmsh](https://github.com/nschloe/pygmsh) ⭐ 978 | 🐛 60 | 🌐 Python | 📅 2023-10-04 - Gmsh for Python. ![Python](logo/Python.svg)
@@ -93,8 +93,8 @@ A curated list of repositories related to fluid dynamics.
 
 * [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,402 | 🐛 767 | 🌐 C++ | 📅 2026-11-14 - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
 * [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) ⭐ 1,251 | 🐛 127 | 🌐 C++ | 📅 2026-11-13 - Next generation FEniCS problem solving environment. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
-* [firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake) ⭐ 683 | 🐛 493 | 🌐 Python | 📅 2026-11-14 - Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM). ![Python](logo/Python.svg)
-* [kinnala/scikit-fem](https://github.com/kinnala/scikit-fem) ⭐ 677 | 🐛 6 | 🌐 Python | 📅 2026-11-13 - Simple finite element assemblers. ![Python](logo/Python.svg)
+* [firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake) ⭐ 684 | 🐛 490 | 🌐 Python | 📅 2026-11-15 - Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM). ![Python](logo/Python.svg)
+* [kinnala/scikit-fem](https://github.com/kinnala/scikit-fem) ⭐ 677 | 🐛 6 | 🌐 Python | 📅 2026-11-15 - Simple finite element assemblers. ![Python](logo/Python.svg)
 * [FluidityProject/fluidity](https://github.com/FluidityProject/fluidity) ⭐ 388 | 🐛 32 | 🌐 Fortran | 📅 2026-11-03 - An open-source computational fluid dynamics code with adaptive unstructured mesh capabilities. ![FORTRAN](logo/FORTRAN.svg)
 * [JuliaFEM/JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) ⭐ 277 | 🐛 11 | 🌐 Julia | 📅 2026-05-11 - The JuliaFEM software library is a framework that allows for the distributed processing of large Finite Element Models across clusters of computers using simple programming models. ![julia](logo/julia.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/JuliaFEM/JuliaFEM.jl/search?l=jupyter-notebook) ⭐ 277 | 🐛 11 | 🌐 Julia | 📅 2026-05-11
 * [deal.II](https://dealii.org/) - An open source finite element library. ![C++](logo/cpp.svg)
@@ -102,12 +102,12 @@ A curated list of repositories related to fluid dynamics.
 ### Finite Volume Methods (FVM)
 
 * [OpenFOAM/OpenFOAM-dev](https://github.com/OpenFOAM/OpenFOAM-dev) ⭐ 2,312 | 🐛 8 | 🌐 C++ | 📅 2026-11-13 - OpenFOAM is a free, open source computational fluid dynamics (CFD) software package released by the OpenFOAM Foundation. ![C++](logo/cpp.svg)
-* [su2code/SU2](https://github.com/su2code/SU2) ⭐ 1,862 | 🐛 124 | 🌐 C++ | 📅 2026-11-14 - SU2: An Open-Source Suite for Multiphysics Simulation and Design. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
+* [su2code/SU2](https://github.com/su2code/SU2) ⭐ 1,862 | 🐛 124 | 🌐 C++ | 📅 2026-11-15 - SU2: An Open-Source Suite for Multiphysics Simulation and Design. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
 * [weymouth/WaterLily.jl](https://github.com/weymouth/WaterLily.jl) ⭐ 860 | 🐛 31 | 🌐 Julia | 📅 2026-11-11 -  Fast and simple fluid simulator in Julia. ![julia](logo/julia.svg)
 * [cselab/aphros](https://github.com/cselab/aphros) ⭐ 464 | 🐛 14 | 🌐 C++ | 📅 2026-10-26 - Finite volume solver for incompressible multiphase flows with surface tension. ![C++](logo/cpp.svg)
-* [MFlowCode/MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 200 | 🌐 Fortran | 📅 2026-11-14 - Exascale compressible multiphase flow solver with GPU acceleration (NVIDIA and AMD); 2025 Gordon Bell Prize Finalist. ![FORTRAN](logo/FORTRAN.svg)
-* [ucns3d-team/UCNS3D](https://github.com/ucns3d-team/UCNS3D) ⭐ 366 | 🐛 50 | 🌐 Fortran | 📅 2026-11-14 - Unstructured Compressible Navier Stokes 3D code (UCNS3D). ![FORTRAN](logo/FORTRAN.svg)
-* [code-saturne/code\_saturne](https://github.com/code-saturne/code_saturne) ⭐ 312 | 🐛 29 | 🌐 C++ | 📅 2026-11-13 - code\_saturne public mirror. ![C++](logo/cpp.svg) ![FORTRAN](logo/FORTRAN.svg) ![Python](logo/Python.svg)
+* [MFlowCode/MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 206 | 🌐 Fortran | 📅 2026-11-15 - Exascale compressible multiphase flow solver with GPU acceleration (NVIDIA and AMD); 2025 Gordon Bell Prize Finalist. ![FORTRAN](logo/FORTRAN.svg)
+* [ucns3d-team/UCNS3D](https://github.com/ucns3d-team/UCNS3D) ⭐ 366 | 🐛 49 | 🌐 Fortran | 📅 2026-11-15 - Unstructured Compressible Navier Stokes 3D code (UCNS3D). ![FORTRAN](logo/FORTRAN.svg)
+* [code-saturne/code\_saturne](https://github.com/code-saturne/code_saturne) ⭐ 312 | 🐛 29 | 🌐 C++ | 📅 2026-11-15 - code\_saturne public mirror. ![C++](logo/cpp.svg) ![FORTRAN](logo/FORTRAN.svg) ![Python](logo/Python.svg)
 * [nextfoam/Baram](https://github.com/nextfoam/baram) ⭐ 193 | 🐛 36 | 🌐 Python | 📅 2026-10-08 - BARAM is developed to mitigate the steep learning curve of Text-based Solvers. BARAM helps you focus on a problem itself with intuitive graphical user interface. For now, OpenFOAM® solvers modified by nextfoam are integrated into BARAM. ![Python](logo/Python.svg)
 * [DelNov/T-Flows](https://github.com/DelNov/T-Flows) ⭐ 7 | 🐛 0 | 🌐 Fortran | 📅 2026-11-13 - T-Flows (stands for Turbulent Flows) is a Computational Fluid Dynamics (CFD) program, originally developed at Delft University of Technology, the Netherlands. ![FORTRAN](logo/FORTRAN.svg)
 
@@ -120,10 +120,10 @@ A curated list of repositories related to fluid dynamics.
 
 ### Vortex Methods / Panel Methods / Blade Element Methods
 
-* [byuflowlab/FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) ⭐ 397 | 🐛 46 | 🌐 Julia | 📅 2026-09-22 - Mixed-fidelity unsteady aerodynamics and aeroacoustics. ![julia](logo/julia.svg)
+* [byuflowlab/FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) ⭐ 398 | 🐛 46 | 🌐 Julia | 📅 2026-09-22 - Mixed-fidelity unsteady aerodynamics and aeroacoustics. ![julia](logo/julia.svg)
 * [camUrban/PteraSoftware](https://github.com/camUrban/PteraSoftware) ⭐ 274 | 🐛 33 | 🌐 Python | 📅 2026-11-13 - A fast, easy-to-use, and open-source software package for analyzing flapping-wing flight. ![Python](logo/Python.svg)
 * [vortexmethods/VM2D](https://github.com/vortexmethods/VM2D) ⭐ 37 | 🐛 4 | 🌐 C++ | 📅 2026-11-10 - VM2D: Open-Source Code for 2D Flow Simulation by Using Meshless Lagrangian Vortex Methods. ![C++](logo/cpp.svg)
-* [Applied-Scientific-Research/Omega2D](https://github.com/Applied-Scientific-Research/Omega2D) ⭐ 36 | 🐛 19 | 🌐 C++ | 📅 2025-02-15 - Two-dimensional flow solver with GUI using vortex particle and boundary element methods. ![C++](logo/cpp.svg)
+* [Applied-Scientific-Research/Omega2D](https://github.com/Applied-Scientific-Research/Omega2D) ⭐ 37 | 🐛 19 | 🌐 C++ | 📅 2025-02-15 - Two-dimensional flow solver with GUI using vortex particle and boundary element methods. ![C++](logo/cpp.svg)
 * [markstock/vic2d](https://github.com/markstock/vic2d) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-05-14 - Two-dimensional semi-Lagrangian vortex method for very low viscosity fluid simulation. ![C++](logo/cpp.svg) ![FORTRAN](logo/FORTRAN.svg)
 * [gdeskos/DVMpp](https://github.com/gdeskos/DVMpp) ⭐ 14 | 🐛 1 | 🌐 C++ | 📅 2026-02-01 - 2D Discrete Vortex Method Code written in C++. ![C++](logo/cpp.svg)
 
@@ -137,19 +137,19 @@ A curated list of repositories related to fluid dynamics.
 
 ### Weather and Climate
 
-* [wrf-model/WRF](https://github.com/wrf-model/WRF) ⭐ 1,805 | 🐛 255 | 🌐 Fortran | 📅 2026-11-14 -  Weather Research and Forecasting (WRF) model is a numerical weather prediction (NWP) system designed to serve both atmospheric research and operational forecasting needs. ![FORTRAN](logo/FORTRAN.svg)
+* [wrf-model/WRF](https://github.com/wrf-model/WRF) ⭐ 1,806 | 🐛 253 | 🌐 Fortran | 📅 2026-11-14 -  Weather Research and Forecasting (WRF) model is a numerical weather prediction (NWP) system designed to serve both atmospheric research and operational forecasting needs. ![FORTRAN](logo/FORTRAN.svg)
 
 ### Building Energy and Urban Environments
 
-* [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) ⭐ 1,623 | 🐛 868 | 🌐 C++ | 📅 2026-11-14 - EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings. ![C++](logo/cpp.svg)
+* [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) ⭐ 1,623 | 🐛 870 | 🌐 C++ | 📅 2026-11-14 - EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings. ![C++](logo/cpp.svg)
 * [ladybug-tools/butterfly](https://github.com/ladybug-tools/butterfly) ⭐ 265 | 🐛 100 | 🌐 Python | 📅 2022-12-27 - :butterfly: A light python API for creating and running OpenFoam cases for CFD simulation. ![Python](logo/Python.svg)
-* [uDALES/u-dales](https://github.com/uDALES/u-dales) ⭐ 86 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2026-11-15 - uDALES: large-eddy-simulation software for urban flow, dispersion and microclimate modelling. ![FORTRAN](logo/FORTRAN.svg)
+* [uDALES/u-dales](https://github.com/uDALES/u-dales) ⭐ 86 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2026-11-15 - uDALES: large-eddy-simulation software for urban flow, dispersion and microclimate modelling. ![FORTRAN](logo/FORTRAN.svg)
 
 ### Shallow Water / Ocean Dynamics
 
-* [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,452 | 🐛 411 | 🌐 Julia | 📅 2026-11-14 - Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs. ![julia](logo/julia.svg)
-* [team-ocean/veros](https://github.com/team-ocean/veros) ⭐ 402 | 🐛 43 | 🌐 Python | 📅 2026-11-14 - The versatile ocean simulator, in pure Python, powered by JAX. ![Python](logo/Python.svg)
-* [OceanParcels/parcels](https://github.com/OceanParcels/parcels) ⭐ 373 | 🐛 62 | 🌐 Python | 📅 2026-11-13 - Parcels (Probably A Really Computationally Efficient Lagrangian Simulator) is a set of Python classes and methods to create customisable particle tracking simulations using output from Ocean Circulation models. ![Python](logo/Python.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/OceanParcels/parcels/search?l=jupyter-notebook) ⭐ 373 | 🐛 62 | 🌐 Python | 📅 2026-11-13
+* [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,453 | 🐛 421 | 🌐 Julia | 📅 2026-11-16 - Julia software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamics on CPUs and GPUs. ![julia](logo/julia.svg)
+* [team-ocean/veros](https://github.com/team-ocean/veros) ⭐ 402 | 🐛 45 | 🌐 Python | 📅 2026-11-16 - The versatile ocean simulator, in pure Python, powered by JAX. ![Python](logo/Python.svg)
+* [OceanParcels/parcels](https://github.com/OceanParcels/parcels) ⭐ 373 | 🐛 64 | 🌐 Python | 📅 2026-11-13 - Parcels (Probably A Really Computationally Efficient Lagrangian Simulator) is a set of Python classes and methods to create customisable particle tracking simulations using output from Ocean Circulation models. ![Python](logo/Python.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/OceanParcels/parcels/search?l=jupyter-notebook) ⭐ 373 | 🐛 64 | 🌐 Python | 📅 2026-11-13
 * [jostbr/shallow-water](https://github.com/jostbr/shallow-water) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2020-11-27 - Python model solving the shallow water equations (linear momentum, nonlinear continuity). ![Python](logo/Python.svg)
 
 ### Lattice Boltzmann Methods (LBM)
@@ -170,7 +170,7 @@ A curated list of repositories related to fluid dynamics.
 
 ### Chemical Kinetics
 
-* [Cantera/cantera](https://github.com/Cantera/cantera) ⭐ 885 | 🐛 63 | 🌐 C++ | 📅 2026-11-01 - Chemical kinetics, thermodynamics, and transport tool suite. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
+* [Cantera/cantera](https://github.com/Cantera/cantera) ⭐ 885 | 🐛 68 | 🌐 C++ | 📅 2026-11-01 - Chemical kinetics, thermodynamics, and transport tool suite. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
 
 ### Supersonic / Hypersonic Flow
 
@@ -180,12 +180,12 @@ A curated list of repositories related to fluid dynamics.
 ### Differential programming
 
 * [taichi-dev/taichi](https://github.com/taichi-dev/taichi) ⭐ 28,461 | 🐛 926 | 🌐 C++ | 📅 2026-10-05 - Parallel programming for everyone. ![Python](logo/Python.svg)
-* [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) ⭐ 1,957 | 🐛 32 | 🌐 Python | 📅 2026-07-16 - A differentiable PDE solving framework for machine learning. ![Python](logo/Python.svg)
+* [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) ⭐ 1,958 | 🐛 32 | 🌐 Python | 📅 2026-07-16 - A differentiable PDE solving framework for machine learning. ![Python](logo/Python.svg)
 * [google/jax-cfd](https://github.com/google/jax-cfd) ⭐ 968 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-10-25 - Computational Fluid Dynamics in JAX. ![Python](logo/Python.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/google/jax-cfd/search?l=jupyter-notebook) ⭐ 968 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-10-25
 
 ### Neural Networks for PDE
 
-* [lululxvi/deepxde](https://github.com/lululxvi/deepxde) ⭐ 4,510 | 🐛 327 | 🌐 Python | 📅 2026-11-08 - Deep learning library for solving differential equations and more. ![Python](logo/Python.svg)
+* [lululxvi/deepxde](https://github.com/lululxvi/deepxde) ⭐ 4,510 | 🐛 328 | 🌐 Python | 📅 2026-11-08 - Deep learning library for solving differential equations and more. ![Python](logo/Python.svg)
 * [google/neural-tangents](https://github.com/google/neural-tangents) ⚠️ Archived - Fast and Easy Infinite Neural Networks in Python. ![Python](logo/Python.svg)
 * [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) ⭐ 1,240 | 🐛 155 | 🌐 Julia | 📅 2026-11-04 - Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation. ![julia](logo/julia.svg)
 * [isl-org/DeepLagrangianFluids](https://github.com/isl-org/DeepLagrangianFluids) ⚠️ Archived - Lagrangian Fluid Simulation with Continuous Convolutions. ![Python](logo/Python.svg)
@@ -193,12 +193,12 @@ A curated list of repositories related to fluid dynamics.
 
 ### Graphics
 
-* [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) ⭐ 16,842 | 🐛 75 | 🌐 JavaScript | 📅 2024-11-12 - Play with fluids in your browser (works even on mobile). ![JavaScript](logo/JavaScript.svg)
+* [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) ⭐ 16,843 | 🐛 75 | 🌐 JavaScript | 📅 2024-11-12 - Play with fluids in your browser (works even on mobile). ![JavaScript](logo/JavaScript.svg)
 * [doyubkim/fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,108 | 🐛 60 | 🌐 C++ | 📅 2023-12-24 - Fluid simulation engine for computer graphics applications. ![C++](logo/cpp.svg)
 
 ### Other Techniques
 
-* [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch) ⭐ 3,937 | 🐛 480 | 🌐 Python | 📅 2026-10-02 - A highly efficient and modular implementation of Gaussian Processes in PyTorch. ![Python](logo/Python.svg)
+* [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch) ⭐ 3,938 | 🐛 483 | 🌐 Python | 📅 2026-10-02 - A highly efficient and modular implementation of Gaussian Processes in PyTorch. ![Python](logo/Python.svg)
 * [PyFR/PyFR](https://github.com/PyFR/PyFR) ⭐ 585 | 🐛 12 | 🌐 Python | 📅 2026-11-12 - Framework for solving advection-diffusion type problems on streaming architectures using the Flux Reconstruction approach of Huynh. ![Python](logo/Python.svg)
 * [pencil-code/pencil-code](https://github.com/pencil-code/pencil-code) ⭐ 244 | 🐛 0 | 🌐 Fortran | 📅 2026-11-14 - A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles. ![FORTRAN](logo/FORTRAN.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/pencil-code/pencil-code/search?l=jupyter-notebook) ⭐ 244 | 🐛 0 | 🌐 Fortran | 📅 2026-11-14
 * [NaluCFD/Nalu](https://github.com/NaluCFD/Nalu) ⭐ 164 | 🐛 11 | 🌐 C | 📅 2026-03-30 - Nalu: a generalized unstructured massively parallel low Mach flow code designed to support a variety of open applications of interest built on the Sierra Toolkit and Trilinos solver Tpetra solver stack. ![C++](logo/cpp.svg)
@@ -222,7 +222,7 @@ A curated list of repositories related to fluid dynamics.
 
 ## Post-processing and Data Analysis
 
-* [numpy/numpy](https://github.com/numpy/numpy) ⭐ 33,369 | 🐛 2,248 | 🌐 Python | 📅 2026-11-15 - The fundamental package for scientific computing with Python. ![Python](logo/Python.svg)
+* [numpy/numpy](https://github.com/numpy/numpy) ⭐ 33,379 | 🐛 2,249 | 🌐 Python | 📅 2026-11-15 - The fundamental package for scientific computing with Python. ![Python](logo/Python.svg)
 * [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy) ⭐ 1,931 | 🐛 97 | 🌐 Python | 📅 2026-10-15 - A sparse regression package with several implementations for the Sparse Identification of Nonlinear Dynamical systems. ![Python](logo/Python.svg)
 * [SURGroup/UQpy](https://github.com/SURGroup/UQpy) ⭐ 365 | 🐛 17 | 🌐 Python | 📅 2026-10-06 - UQpy (Uncertainty Quantification with python) is a general purpose Python toolbox for modeling uncertainty in physical and mathematical systems. ![Python](logo/Python.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/SURGroup/UQpy/search?l=jupyter-notebook) ⭐ 365 | 🐛 17 | 🌐 Python | 📅 2026-10-06
 * [mathLab/PyDMD](https://github.com/mathLab/PyDMD) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2025-03-06 - Python Dynamic Mode Decomposition. ![Python](logo/Python.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/mathLab/PyDMD/search?l=jupyter-notebook) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2025-03-06
@@ -236,16 +236,16 @@ A curated list of repositories related to fluid dynamics.
 
 ### 2D Visualization
 
-* [3b1b/manim](https://github.com/3b1b/manim) ⭐ 96,531 | 🐛 519 | 🌐 Python | 📅 2026-09-09 - Animation engine for explanatory math videos. ![Python](logo/Python.svg)
-* [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,456 | 🐛 1,474 | 🌐 Python | 📅 2026-11-14 - matplotlib: plotting with Python. ![Python](logo/Python.svg)
-* [mwaskom/seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,111 | 🐛 255 | 🌐 Python | 📅 2026-10-08 - Statistical data visualization in Python. ![Python](logo/Python.svg)
-* [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) ⭐ 9,402 | 🐛 19 | 🌐 Python | 📅 2026-06-23 - Matplotlib styles for scientific plotting. ![Python](logo/Python.svg)
-* [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,639 | 🐛 969 | 🌐 Python | 📅 2026-11-14 - Image processing in Python. ![Python](logo/Python.svg)
-* [lukelbd/proplot](https://github.com/lukelbd/proplot) ⭐ 1,147 | 🐛 95 | 🌐 Python | 📅 2025-02-27 - :art: A succinct matplotlib wrapper for making beautiful, publication-quality graphics. ![Python](logo/Python.svg)
+* [3b1b/manim](https://github.com/3b1b/manim) ⭐ 96,566 | 🐛 519 | 🌐 Python | 📅 2026-09-09 - Animation engine for explanatory math videos. ![Python](logo/Python.svg)
+* [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,463 | 🐛 1,479 | 🌐 Python | 📅 2026-11-15 - matplotlib: plotting with Python. ![Python](logo/Python.svg)
+* [mwaskom/seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,111 | 🐛 256 | 🌐 Python | 📅 2026-10-08 - Statistical data visualization in Python. ![Python](logo/Python.svg)
+* [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) ⭐ 9,407 | 🐛 19 | 🌐 Python | 📅 2026-06-23 - Matplotlib styles for scientific plotting. ![Python](logo/Python.svg)
+* [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,638 | 🐛 969 | 🌐 Python | 📅 2026-11-14 - Image processing in Python. ![Python](logo/Python.svg)
+* [lukelbd/proplot](https://github.com/lukelbd/proplot) ⭐ 1,148 | 🐛 95 | 🌐 Python | 📅 2025-02-27 - :art: A succinct matplotlib wrapper for making beautiful, publication-quality graphics. ![Python](logo/Python.svg)
 
 ### 3D Visualization
 
-* [blender/blender](https://github.com/blender/blender) ⭐ 22,007 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 - A free and open source 3D creation suite, supporting the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing. ![Python](logo/Python.svg)
+* [blender/blender](https://github.com/blender/blender) ⭐ 22,061 | 🐛 0 | 🌐 C++ | 📅 2026-11-15 - A free and open source 3D creation suite, supporting the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing. ![Python](logo/Python.svg)
 * [pyvista/pyvista](https://github.com/pyvista/pyvista) ⭐ 3,883 | 🐛 541 | 🌐 Python | 📅 2026-11-14 - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). ![Python](logo/Python.svg)
 * [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) ⭐ 1,043 | 🐛 7 | 🌐 Python | 📅 2026-11-01 - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). ![Python](logo/Python.svg) ![JavaScript](logo/JavaScript.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/K3D-tools/K3D-jupyter/search?l=jupyter-notebook) ⭐ 1,043 | 🐛 7 | 🌐 Python | 📅 2026-11-01
 * [InsightSoftwareConsortium/itkwidgets](https://github.com/InsightSoftwareConsortium/itkwidgets) ⭐ 625 | 🐛 127 | 🌐 Python | 📅 2026-03-10 -  Interactive Jupyter widgets to visualize images, point sets, and meshes in 2D and 3D. ![Python](logo/Python.svg) ![JavaScript](logo/JavaScript.svg) [![Jupyter](logo/Jupyter.svg)](https://github.com/InsightSoftwareConsortium/itkwidgets/search?l=jupyter-notebook) ⭐ 625 | 🐛 127 | 🌐 Python | 📅 2026-03-10
@@ -265,12 +265,12 @@ A curated list of repositories related to fluid dynamics.
 ### Benchmarks
 
 * [dionhaefner/pyhpc-benchmarks](https://github.com/dionhaefner/pyhpc-benchmarks) ⭐ 337 | 🐛 6 | 🌐 Python | 📅 2024-10-08 - A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python. ![Python](logo/Python.svg)
-* [su2code/TestCases](https://github.com/su2code/TestCases) ⭐ 74 | 🐛 10 | 🌐 GLSL | 📅 2026-10-30 - An extensive collection of common test cases for SU2. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
+* [su2code/TestCases](https://github.com/su2code/TestCases) ⭐ 74 | 🐛 11 | 🌐 GLSL | 📅 2026-11-15 - An extensive collection of common test cases for SU2. ![C++](logo/cpp.svg) ![Python](logo/Python.svg)
 
 ## Reproducibility
 
-* [iterative/dvc](https://github.com/iterative/dvc) ⭐ 15,975 | 🐛 228 | 🌐 Python | 📅 2026-11-09 - Data Version Control, Git for Data & Models, ML Experiments Management. ![Python](logo/Python.svg)
-* [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,094 | 🐛 1,334 | 🌐 Python | 📅 2026-11-09 - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects. ![Python](logo/Python.svg)
+* [iterative/dvc](https://github.com/iterative/dvc) ⭐ 15,976 | 🐛 228 | 🌐 Python | 📅 2026-11-09 - Data Version Control, Git for Data & Models, ML Experiments Management. ![Python](logo/Python.svg)
+* [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,097 | 🐛 1,330 | 🌐 Python | 📅 2026-11-09 - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects. ![Python](logo/Python.svg)
 
 ## Community
 
@@ -278,11 +278,11 @@ A curated list of repositories related to fluid dynamics.
 
 ## Related Topics
 
-* [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,117 | 🐛 169 | 📅 2026-11-14 -  A topic-centric list of HQ open datasets. ![Awesome](logo/awesome.svg)
+* [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,146 | 🐛 170 | 📅 2026-11-15 -  A topic-centric list of HQ open datasets. ![Awesome](logo/awesome.svg)
 * [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) ⭐ 1,604 | 🐛 21 | 🌐 Python | 📅 2026-07-20 - Curated list of awesome software for numerical analysis and scientific computing. ![Awesome](logo/awesome.svg)
-* [qd-cae/awesome-CAE](https://github.com/qd-cae/awesome-CAE) ⭐ 512 | 🐛 6 | 📅 2024-08-15 - A curated list of awesome CAE frameworks, libraries and software. ![Awesome](logo/awesome.svg)
+* [qd-cae/awesome-CAE](https://github.com/qd-cae/awesome-CAE) ⭐ 513 | 🐛 6 | 📅 2024-08-15 - A curated list of awesome CAE frameworks, libraries and software. ![Awesome](logo/awesome.svg)
 * [alexlib/awesome\_piv](https://github.com/alexlib/awesome_piv) ⭐ 69 | 🐛 2 | 📅 2026-10-24 - A curated list of repositories related to PIV (particle image velocimetry). ![Awesome](logo/awesome.svg)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
